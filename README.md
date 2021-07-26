@@ -24,7 +24,8 @@ Then, make sure that your repo includes a package.json with the required depende
 Run node server.js or npm start in your terminal to launch the application.
 
 
-https://user-images.githubusercontent.com/35352010/115219029-faae7d80-a0bb-11eb-94f7-1442bd211e4f.mov
+https://user-images.githubusercontent.com/35352010/126974994-3cfd2455-010c-4a32-9007-c6c86994dca4.mov
+
 
 That's it, you're done! 
 
@@ -38,6 +39,4 @@ That's it, you're done!
 
 
 
-
-https://user-images.githubusercontent.com/35352010/126974994-3cfd2455-010c-4a32-9007-c6c86994dca4.mov
 
